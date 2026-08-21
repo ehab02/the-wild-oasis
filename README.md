@@ -4,6 +4,13 @@ A full-featured hotel management dashboard built with React for managing cabins,
 
 🔗 **[Live Demo](https://the-wild-oasis-re.vercel.app/)**
 
+## Demo Access
+
+The live demo requires authentication. You can use the following demo credentials to explore the application:
+
+- **Email:** `test@test.com`
+- **Password:** `123456`
+
 ## Overview
 
 The Wild Oasis is a hotel management dashboard designed to help hotel staff manage cabins, bookings, guests, and daily operations through a centralized interface.
