@@ -8,8 +8,8 @@ A full-featured hotel management dashboard built with React for managing cabins,
 
 The live demo requires authentication. You can use the following demo credentials to explore the application:
 
-- **Email:** `test@test.com`
-- **Password:** `123456`
+- **Email:** `test@example.com`
+- **Password:** `thewildoasis2026`
 
 ## Overview
 
