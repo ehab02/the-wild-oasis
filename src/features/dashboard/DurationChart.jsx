@@ -9,6 +9,7 @@ import {
   Tooltip,
 } from "recharts";
 import { useDarkMode } from "../../context/DarkModeContext";
+import Empty from "../../ui/Empty";
 
 const ChartBox = styled.div`
   /* Box */
@@ -146,6 +147,7 @@ function DurationChart({ confirmedStays }) {
   const startData = isDarkMode ? startDataDark : startDataLight;
   const data = prepareData(startData, confirmedStays);
 
+  if (!data) return <Empty resourceName="data" />;
   return (
     <ChartBox>
       <Heading as="h2">Stay duration summary</Heading>
