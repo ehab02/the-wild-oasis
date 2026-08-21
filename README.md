@@ -35,7 +35,13 @@ The project was developed as part of **Jonas Schmedtmann's Ultimate React Course
 
 ## Screenshots
 
-Screenshots of the main application interfaces will be added here.
+![Dashboard](./screenshots/dashboard.png)
+
+![Bookings](./screenshots/bookings.png)
+
+![Cabins](./screenshots/cabins.png)
+
+![Dashboard-Dark](./screenshots/dashboard-dark)
 
 ## Tech Stack
 
