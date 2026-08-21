@@ -41,7 +41,7 @@ The project was developed as part of **Jonas Schmedtmann's Ultimate React Course
 
 ![Cabins](./screenshots/cabins.png)
 
-![Dashboard-Dark](./screenshots/dashboard-dark)
+![Dashboard-Dark](./screenshots/dashboard-dark.png)
 
 ## Tech Stack
 
